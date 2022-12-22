@@ -47,7 +47,7 @@ git add choix-du-mot.md  - Le choix du mot anglais "exile"
 ## 31-10-2022
 touch URL_Français.md
 
-git add URL_Français.md  - Les URL français sont ajoutés par Weixuan
+git add URL_Français.md  - Les URL français sont ajoutés
 
 ## 23-11-2022
 création du dossier dump_texte - les dumps des URLs français et anglais
@@ -56,8 +56,9 @@ création du dossier dump_texte - les dumps des URLs français et anglais
 création du dossier URL_Total - tous les URLs sont réunis
 
 ## 14-12-2022
-création des dossiers : aspirations, concordances, contextes - pour les ressources provenant des URLs
-essai de WordCloud : images pour les mot-clés
+création des dossiers : aspirations, concordances, contextes - pour réunir les ressources provenant des URLs
+
+essai de WordCloud - images pour les mot-clés 
 
 ## 22-12-2-22
 tous les ressources des trois langues sont réunis
