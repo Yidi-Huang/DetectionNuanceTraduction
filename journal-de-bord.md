@@ -55,11 +55,11 @@ création du dossier dump_texte - les dumps des URLs français et anglais
 ## 29-11-2022
 création du dossier URL_Total - tous les URLs sont réunis
 
-##14-12-2022
+## 14-12-2022
 création des dossiers : aspirations, concordances, contextes - pour les ressources provenant des URLs
 essai de WordCloud : images pour les mot-clés
 
-##22-12-2-22
+## 22-12-2-22
 tous les ressources des trois langues sont réunis
 création du dossier sites - première html tables qui représente tous les tables (avec images)
 
