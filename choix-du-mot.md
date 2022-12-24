@@ -73,5 +73,6 @@ Définition :
 (Le Petit Robert. (2017). *dépaysement*. Dans Dictionnaire)
 
 synonyme : deracinement, desorientation, égarement, exil
+
 Antonyme : accoutumance
 
