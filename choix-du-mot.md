@@ -57,14 +57,14 @@ dépaysement
 Forme graphique : dépaysement
 
 Prononciation :
-API (français standard) /depeizmɑ̃/
+- API (français standard) /depeizmɑ̃/
 
 Nature du mot : nom
 
 Pos : nom
 
 Formation du mot :
-Le mot « dépaysement » est une dérivation du nom « pays ». Elle est formée par la base *payser* et le préfixe *-dé* indiquant l’action contraire ou la privation. 
+- Le mot « dépaysement » est une dérivation du nom « pays ». Elle est formée par la base *payser* et le préfixe *-dé* indiquant l’action contraire ou la privation. 
 
 Définition :
 - 1. VX Action d’exiler 
