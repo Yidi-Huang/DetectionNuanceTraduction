@@ -71,3 +71,7 @@ Définition :
 - 2. MOD. État d’une personne dépaysée. ▪ (1834) Changement agréable d’habitudes. 
 - 3. DR. Renvoi (d’une affaire) devant une autre juridiction. 
 (Le Petit Robert. (2017). *dépaysement*. Dans Dictionnaire)
+
+synonyme : deracinement, desorientation, égarement, exil
+Antonyme : accoutumance
+
