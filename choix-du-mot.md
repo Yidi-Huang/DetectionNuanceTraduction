@@ -67,9 +67,9 @@ Formation du mot :
 - Le mot « dépaysement » est une dérivation du nom « pays ». Elle est formée par la base *payser* et le préfixe *-dé* indiquant l’action contraire ou la privation. 
 
 Définition :
-- 1. VX Action d’exiler 
-- 2. MOD. État d’une personne dépaysée. ▪ (1834) Changement agréable d’habitudes. 
-- 3. DR. Renvoi (d’une affaire) devant une autre juridiction. 
+- VX Action d’exiler 
+- MOD. État d’une personne dépaysée. ▪ (1834) Changement agréable d’habitudes. 
+- DR. Renvoi (d’une affaire) devant une autre juridiction. 
 (Le Petit Robert. (2017). *dépaysement*. Dans Dictionnaire)
 
 synonyme : deracinement, desorientation, égarement, exil
