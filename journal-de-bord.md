@@ -60,7 +60,13 @@ création des dossiers : aspirations, concordances, contextes - pour réunir les
 
 essai de WordCloud - images pour les mot-clés 
 
-## 22-12-2-22
+## 22-12-2022
 tous les ressources des trois langues sont réunis
+
 création du dossier sites - première html tables qui représente tous les tables (avec images)
+
+## 24-12-2022
+création des fichiers Introduction et Choix des langues
+update du fichier choix du mot
+
 
