@@ -73,8 +73,9 @@ création des fichiers Introduction et Choix des langues
 update du fichier choix du mot
 
 ## 26-12-2022
-création des html accueil et présentation : deux sites qui représentent la structure et le but du projet
+création des html accueil et présentation - deux sites qui représentent la structure et le but du projet
 
-
+## 27-12-2022
+création du html nuage - essai de la représentation du nuage de mot anglais "exile"
 
 
