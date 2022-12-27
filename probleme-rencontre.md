@@ -19,3 +19,5 @@ Plusieurs mots anglais sont présentés et le choix est pris après la consultat
 - banishment : partir uniquement en raison des forces extérieures : menance, persécution, etc.
 
 Après la réflexion sur leurs différences sémantqiues, le mot anglais "exile" est pris comme la traduction la plus pertinente. Bien qu'il soit, dans la plupart de cas, appliqué pour représenter une peine, mais notre consultation dans les dictionnaires anglais montre qu'il peut également être utilisé pour exprimer un départ volontaire dans le but d'un meilleur avenir.
+
+## 
