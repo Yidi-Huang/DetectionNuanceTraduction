@@ -69,6 +69,12 @@ création du dossier sites - première html tables qui représente tous les tabl
 
 ## 24-12-2022
 création des fichiers Introduction et Choix des langues
+
 update du fichier choix du mot
+
+## 26-12-2022
+création des html accueil et présentation : deux sites qui représentent la structure et le but du projet
+
+
 
 
