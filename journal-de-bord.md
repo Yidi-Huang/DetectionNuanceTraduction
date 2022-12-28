@@ -76,6 +76,8 @@ update du fichier choix du mot
 création des html accueil et présentation - deux sites qui représentent la structure et le but du projet
 
 ## 27-12-2022
-création du html nuage - essai de la représentation du nuage de mot anglais "exile"
+création du html nuage - essai de la représentation des nuage de mot anglais "exile" et mot chinois "背井离乡"
+
+
 
 
