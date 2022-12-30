@@ -81,4 +81,7 @@ création du html nuage - essai de la représentation des nuage de mot anglais "
 ## 28-12-2022
 création du html itrameur - essai de la représentation de l'itrameur du mot anglais "exile"
 
+## 30-12-2022
+changement de style des htmls itrameur et nuages de mots - une perception plus claire pour les trois langues
+
 
