@@ -2,7 +2,7 @@
 
 ## 25-10-2022
 ### Traduction du mot 
-La traudction du mot choisi rencontre une différence remarquable dans les trois langues. 
+La traduction du mot choisi rencontre une différence remarquable dans les trois langues. 
 - En anglais, par rapport aux mots "dépaysement" en français et "背井离乡" en chinois, qui peuvent exprimer un départ(vonlontaire ou non) de son pays natal, les mots anglais de ce sens sont plus liés à une force, notamment politique pour expluser quelqu'un. 
 Dans l'histoire et même aujourd'hui, ces mots anglais sont souvent appliqués dans le sens d'une punition pour les criminels ou d'une persécution politique.
 
