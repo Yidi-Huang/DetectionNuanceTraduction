@@ -11,7 +11,7 @@ Dans l'histoire et même aujourd'hui, ces mots anglais sont souvent appliqués d
 Méthode :
 Face à une telle situation, nous sommes d'accord de trouver une langue comme pivot, afin de mieux comprendre le sens initial, est ensuite de trouver les traducions pertinentes dans les deux autres langues.
 
-Le mot chinois "背井离乡" est choisi pour traduitre le sens original.
+Le mot chinois "背井离乡" est choisi pour traduire le sens original.
 
 Plusieurs mots anglais sont présentés et le choix est pris après la consultation dans les dictionnaires.
 - exile : quitter la patrie volontairement ou sous la contrainte
