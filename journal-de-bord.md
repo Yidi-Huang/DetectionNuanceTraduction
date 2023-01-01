@@ -86,3 +86,6 @@ changement de style des htmls itrameur et nuages de mots - une perception plus c
 
 ## 31-12-2022
 ajout des ressources chinoises sur les htmls - itrameur et weiciyun
+
+## 01-01-2023
+changement de style du html itrameur et le contenu de l'itrameur chinois
