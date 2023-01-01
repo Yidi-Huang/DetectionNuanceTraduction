@@ -84,4 +84,5 @@ création du html itrameur - essai de la représentation de l'itrameur du mot an
 ## 30-12-2022
 changement de style des htmls itrameur et nuages de mots - une perception plus claire pour les trois langues
 
-
+## 31-12-2022
+ajout des ressources chinoises sur les htmls - itrameur et weiciyun
