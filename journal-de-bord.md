@@ -89,3 +89,7 @@ ajout des ressources chinoises sur les htmls - itrameur et weiciyun
 
 ## 01-01-2023
 changement de style du html itrameur et le contenu de l'itrameur chinois
+
+## 02-01-2022
+ajout dans le html conclusion - analyses brèves du mot chinois
+ajout dans le html itrameur - analyses des images venant de l'itrameur sur le mot "dépaysement"
